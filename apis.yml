@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Mainframe
   - Enterprise
-  - Open Source
   - Linux Foundation
+  - Mainframe
+  - Open Source
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,8 +23,8 @@ apis:
       API for accessing Open Mainframe Project resources including Zowe documentation and tools for modern mainframe development and operations.
     humanURL: https://www.openmainframeproject.org/projects
     tags:
-      - Mainframe
       - Enterprise
+      - Mainframe
     properties:
       - type: Documentation
         url: https://www.openmainframeproject.org/projects
