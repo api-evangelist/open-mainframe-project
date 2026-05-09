@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://www.openmainframeproject.org/blog",
-      "feed_url": "https://openmainframeproject.org/feed/",
-      "saved": 10,
-      "title": "Open Mainframe Project"
+      "feed_url": "https://www.openmainframeproject.org/feed/",
+      "title": "Open Mainframe Project",
+      "saved": 1
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-03T23:33:01Z"
+  "post_count": 11,
+  "fetched": "2026-05-09T20:17:51Z"
 }
