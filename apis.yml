@@ -45,7 +45,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.zowe.org/
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/zowe
   - aid: open-mainframe-project:feilong
     name: Feilong
@@ -61,7 +61,7 @@ apis:
     properties:
       - type: Documentation
         url: https://cloudlib4zvm.readthedocs.io/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/openmainframeproject/feilong
   - aid: open-mainframe-project:galasa
     name: Galasa
@@ -77,7 +77,7 @@ apis:
     properties:
       - type: Documentation
         url: https://galasa.dev/docs/
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/galasa-dev
   - aid: open-mainframe-project:tessia
     name: Tessia
@@ -109,7 +109,7 @@ apis:
     properties:
       - type: Documentation
         url: https://genevaers.org/
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/genevaers
   - aid: open-mainframe-project:cobol-check
     name: COBOL Check
@@ -123,7 +123,7 @@ apis:
       - Testing
       - TDD
     properties:
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/openmainframeproject/cobol-check
   - aid: open-mainframe-project:zopen-community
     name: zopen Community
@@ -139,7 +139,7 @@ apis:
     properties:
       - type: Documentation
         url: https://zopen.community/
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/zopencommunity
   - aid: open-mainframe-project:ambitus
     name: Ambitus
@@ -154,7 +154,7 @@ apis:
       - Linux on Z
       - z/OS
     properties:
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/ambitus
   - aid: open-mainframe-project:cbt-tape
     name: CBT Tape
@@ -182,7 +182,7 @@ apis:
       - Education
       - Training
     properties:
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/openmainframeproject/cobol-programming-course
   - aid: open-mainframe-project:software-discovery-tool
     name: Software Discovery Tool
@@ -195,7 +195,7 @@ apis:
       - IBM Z
       - Open Source
     properties:
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/openmainframeproject/software-discovery-tool
   - aid: open-mainframe-project:mainframe-open-education
     name: Mainframe Open Education
@@ -218,7 +218,7 @@ common:
     url: https://www.openmainframeproject.org/all-projects
   - type: Documentation
     url: https://www.openmainframeproject.org/projects
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/openmainframeproject
   - type: Blog
     url: https://www.openmainframeproject.org/blog
