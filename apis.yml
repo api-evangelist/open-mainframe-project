@@ -212,6 +212,8 @@ apis:
       - type: Documentation
         url: https://www.openmainframeproject.org/projects/mainframe-open-education
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-open-mainframe-project
   - type: Website
     url: https://www.openmainframeproject.org/
   - type: All Projects
