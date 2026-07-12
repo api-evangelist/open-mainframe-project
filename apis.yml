@@ -212,6 +212,8 @@ apis:
       - type: Documentation
         url: https://www.openmainframeproject.org/projects/mainframe-open-education
 common:
+  - type: DomainSecurity
+    url: security/open-mainframe-project-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/the-open-mainframe-project
   - type: Website

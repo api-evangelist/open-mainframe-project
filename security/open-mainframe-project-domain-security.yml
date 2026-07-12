@@ -1,0 +1,33 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.openmainframeproject.org
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep  3 05:33:38 2026 GMT
+  hsts: true
+  hsts_max_age: 300
+- host: www.zowe.org
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  6 19:23:48 2026 GMT
+  hsts: true
+  hsts_max_age: 31536000
+- host: galasa.dev
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 31 12:30:23 2026 GMT
+  hsts: false
+domains:
+- domain: openmainframeproject.org
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: none
+- domain: zowe.org
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false
