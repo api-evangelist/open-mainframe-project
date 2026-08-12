@@ -224,6 +224,9 @@ apis:
       - type: Documentation
         url: https://www.openmainframeproject.org/projects/mainframe-open-education
 common:
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/openmainframeproject/feilong/blob/master/LICENSE
   - type: DomainSecurity
     url: security/open-mainframe-project-domain-security.yml
   - type: LinkedIn
