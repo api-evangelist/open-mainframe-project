@@ -24,6 +24,17 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-mainframe-project.png
 tags:
+  - Cloud-Native
+  - Education
+  - Enterprise
+  - IBM Z
+  - Linux Foundation
+  - Linux on Z
+  - Mainframe
+  - Open-Source
+  - z/OS
+  - z/VM
+tags_raw:
   - Cloud Native
   - Education
   - Enterprise
@@ -145,6 +156,10 @@ apis:
       tool surface available to mainframe developers.
     humanURL: https://zopen.community/
     tags:
+      - Open-Source
+      - Package Management
+      - z/OS
+    tags_raw:
       - Open Source
       - Package Management
       - z/OS
@@ -203,6 +218,10 @@ apis:
       open source software tested on the IBM Z platform.
     humanURL: https://www.openmainframeproject.org/projects/software-discovery-tool
     tags:
+      - Discovery
+      - IBM Z
+      - Open-Source
+    tags_raw:
       - Discovery
       - IBM Z
       - Open Source
