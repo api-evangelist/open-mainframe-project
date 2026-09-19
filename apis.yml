@@ -75,6 +75,12 @@ apis:
       - API Mediation
       - CLI
       - Mainframe
+      - REST API
+      - z/OS
+    tags_raw:
+      - API Mediation
+      - CLI
+      - Mainframe
       - REST APIs
       - z/OS
     properties:
@@ -90,6 +96,10 @@ apis:
       modern cloud automation tooling.
     humanURL: https://www.openmainframeproject.org/projects/feilong
     tags:
+      - Cloud Connector
+      - REST API
+      - z/VM
+    tags_raw:
       - Cloud Connector
       - REST APIs
       - z/VM
