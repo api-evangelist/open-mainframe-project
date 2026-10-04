@@ -43,7 +43,7 @@ tags:
   - Linux Foundation
   - Linux on Z
   - Mainframe
-  - Open-Source
+  - Open Source
   - z/OS
   - z/VM
 tags_raw:
@@ -57,6 +57,7 @@ tags_raw:
   - Open Source
   - z/OS
   - z/VM
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
@@ -178,13 +179,14 @@ apis:
       tool surface available to mainframe developers.
     humanURL: https://zopen.community/
     tags:
-      - Open-Source
+      - Open Source
       - Package Management
       - z/OS
     tags_raw:
       - Open Source
       - Package Management
       - z/OS
+      - Open-Source
     properties:
       - type: Documentation
         url: https://zopen.community/
@@ -242,11 +244,12 @@ apis:
     tags:
       - Discovery
       - IBM Z
-      - Open-Source
+      - Open Source
     tags_raw:
       - Discovery
       - IBM Z
       - Open Source
+      - Open-Source
     properties:
       - type: GitHubRepository
         url: https://github.com/openmainframeproject/software-discovery-tool
