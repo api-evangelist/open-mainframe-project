@@ -268,6 +268,12 @@ apis:
       - type: Documentation
         url: https://www.openmainframeproject.org/projects/mainframe-open-education
 common:
+  - type: Plans
+    url: plans/open-mainframe-project-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/open-mainframe-project-rate-limits.yml
+  - type: FinOps
+    url: finops/open-mainframe-project-finops.yml
   - type: IssueTracker
     url: https://github.com/openmainframeproject/feilong/issues
   - type: CodeOfConduct
